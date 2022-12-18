@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Mark-Portfolio/static/css/main.f1e21fc6.css",
+    "main.js": "/Mark-Portfolio/static/js/main.b37dfa9a.js",
+    "static/media/spaceimage.webp": "/Mark-Portfolio/static/media/spaceimage.0057b3d8cd9aa4d4f7cd.webp",
+    "static/media/flask.svg": "/Mark-Portfolio/static/media/flask.b895607b707b858500de2a5db7a25ebd.svg",
+    "static/media/express.svg": "/Mark-Portfolio/static/media/express.7e85c5130978e3593e65a44112bc7390.svg",
+    "static/media/sass.svg": "/Mark-Portfolio/static/media/sass.8351205a93eafac2e392b26acf7580e1.svg",
+    "static/media/react.svg": "/Mark-Portfolio/static/media/react.e27571eaed899c642345e71163624ef9.svg",
+    "static/media/mysql-icon.svg": "/Mark-Portfolio/static/media/mysql-icon.e5a509a5d3ca7443ae6ccf379181381d.svg",
+    "static/media/github-icon.svg": "/Mark-Portfolio/static/media/github-icon.04ed74f38b41cdcbf14f80ae8cd0aa2b.svg",
+    "static/media/nodejs.svg": "/Mark-Portfolio/static/media/nodejs.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/jQuery_Logo.svg": "/Mark-Portfolio/static/media/jQuery_Logo.1f9df0e960ed8649a166c78a1727b2a1.svg",
+    "static/media/python.svg": "/Mark-Portfolio/static/media/python.6a8b2999db46fb931134216e8fdfdb2c.svg",
+    "static/media/html-5.svg": "/Mark-Portfolio/static/media/html-5.e7638e3676622c76a46ece6c46136fd4.svg",
+    "static/media/css-3.svg": "/Mark-Portfolio/static/media/css-3.e7a9de36d9335d92932e93eb3b32deb9.svg",
+    "static/media/bootstrap.svg": "/Mark-Portfolio/static/media/bootstrap.4f4c52d75ff6e4fd91fa75febc052a19.svg",
+    "static/media/git-icon.svg": "/Mark-Portfolio/static/media/git-icon.fd381642a8b14fec88b8d6df1ff25220.svg",
+    "static/media/javascript.svg": "/Mark-Portfolio/static/media/javascript.fd46ca41839433d73577989d86eb2fe2.svg",
+    "static/media/tailwindcss-icon.svg": "/Mark-Portfolio/static/media/tailwindcss-icon.50fbcf516b9a3774e9a83272167059ae.svg",
+    "static/media/mongodb-icon.svg": "/Mark-Portfolio/static/media/mongodb-icon.8869f2f6c8ef3b4798e6fa8649bfaac0.svg",
+    "index.html": "/Mark-Portfolio/index.html",
+    "main.f1e21fc6.css.map": "/Mark-Portfolio/static/css/main.f1e21fc6.css.map",
+    "main.b37dfa9a.js.map": "/Mark-Portfolio/static/js/main.b37dfa9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1e21fc6.css",
+    "static/js/main.b37dfa9a.js"
+  ]
+}
