@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mark-Portfolio/static/css/main.e66c8082.css",
-    "main.js": "/Mark-Portfolio/static/js/main.ab94894b.js",
+    "main.css": "/Mark-Portfolio/static/css/main.fb26605e.css",
+    "main.js": "/Mark-Portfolio/static/js/main.2fa9df37.js",
     "static/media/spaceimage.webp": "/Mark-Portfolio/static/media/spaceimage.0057b3d8cd9aa4d4f7cd.webp",
     "static/media/flask.svg": "/Mark-Portfolio/static/media/flask.20505e535e213675e7cae5acc13cb21b.svg",
     "static/media/express.svg": "/Mark-Portfolio/static/media/express.778883a8c616cdae1ae2eded6c460ee0.svg",
@@ -20,11 +20,11 @@
     "static/media/tailwindcss-icon.svg": "/Mark-Portfolio/static/media/tailwindcss-icon.7817889fda1887000f0e712239d42b5a.svg",
     "static/media/mongodb-icon.svg": "/Mark-Portfolio/static/media/mongodb-icon.4688f9b5cd31b78325f782fd3d2cada2.svg",
     "index.html": "/Mark-Portfolio/index.html",
-    "main.e66c8082.css.map": "/Mark-Portfolio/static/css/main.e66c8082.css.map",
-    "main.ab94894b.js.map": "/Mark-Portfolio/static/js/main.ab94894b.js.map"
+    "main.fb26605e.css.map": "/Mark-Portfolio/static/css/main.fb26605e.css.map",
+    "main.2fa9df37.js.map": "/Mark-Portfolio/static/js/main.2fa9df37.js.map"
   },
   "entrypoints": [
-    "static/css/main.e66c8082.css",
-    "static/js/main.ab94894b.js"
+    "static/css/main.fb26605e.css",
+    "static/js/main.2fa9df37.js"
   ]
 }
