@@ -14,7 +14,7 @@ library.add(fas, faTwitter, faFontAwesome, faGithub, faLinkedin)
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/about" element={<About />} />
         <Route path="/skills" element={<Skills />} />
