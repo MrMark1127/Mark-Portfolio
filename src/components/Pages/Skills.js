@@ -21,11 +21,11 @@ import SASSIcon from "../../assets/svg-icons/sass.svg"
 /*-mt-24 2xl:-mt-36 3xl:-mt-48*/
 function Skills() {
     return (
-        <Layout content={
-            <div className="text-white h-screen flex flex-col justify-center sm:col-span-4 md:col-span-3">
-                <h1 className="mt-12 md:mt-8 2xl:mt-24 3xl:mt-32 text-4xl 3xl:text-6xl font-semibold">SKILLS</h1>
-                <div className="container flex flex-1 mx-auto -mt-24 2xl:-mt-36 3xl:-mt-48 -mb-8 items-center justify-center overflow-y-scroll scrollbar">
-                    <div className="container grid grid-cols-4 grid-flow-row rounded-sm mx-4 lg:mt-16 my-4">
+        <Layout 
+        title={"SKILLS"}
+        content={   
+            //  || container grid grid-cols-4 grid-flow-row rounded-sm mx-4 lg:mt-16 my-4
+                    <div className="container grid grid-cols-4 gap-4 pr-2 rounded-md overflow-y-auto scrollbar">
                         <SkillContainer
                             imgSrc={JavascriptLogo}
                             skillName="Javascript"
@@ -91,9 +91,6 @@ function Skills() {
                             imgSrc={MongoDB}
                             skillName="Mongo"
                         />
-                    </div>
-                </div>
-                <NavBar />
             </div>
         }/>
     );
