@@ -11,7 +11,7 @@ function NavBar() {
 
     const iconStyle = "xs:text-2xl text-4xl sm:text-4xl drop-shadow-lg text-teal hover:text-offwhite";
     return (
-        <div id="navBarSelector" className="container flex mx-auto justify-center mb-4 overflow-hidden opacity-100">
+        <div id="navBarSelector" className="container flex mx-auto justify-center mb-4 overflow-hidden pt-2 lg:mt-4">
             <div className="bg-lightblack/[0.95] rounded-md py-2 px-10">
                 <div className="xs:space-x-5 space-x-10 sm:space-x-9 flex flex-row">
                     <Link to="/">
