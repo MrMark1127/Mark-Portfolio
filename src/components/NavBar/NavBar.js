@@ -9,11 +9,11 @@ function NavBar() {
         el.classList.add("transition","ease-in-out","duration-1000", "opacity-100")
     }, [])
 
-    const iconStyle = "xs:text-2xl text-4xl sm:text-4xl drop-shadow-lg text-teal hover:text-offwhite";
+    const iconStyle = "xxs:text-xl xs:text-2xl text-4xl sm:text-4xl drop-shadow-lg text-teal hover:text-offwhite";
     return (
         <div id="navBarSelector" className="container flex mx-auto justify-center mb-4 overflow-hidden pt-2 lg:mt-4">
-            <div className="bg-lightblack/[0.95] rounded-md py-2 px-10">
-                <div className="xs:space-x-5 space-x-10 sm:space-x-9 flex flex-row">
+            <div className="bg-lightblack/[0.95] rounded-md py-2 px-10 xxs:px-1">
+                <div className="xxs:space-x-3 xs:space-x-5 space-x-10 sm:space-x-9 flex flex-row">
                     <Link to="/">
                         <FontAwesomeIcon icon={solid("house")} className={iconStyle}/>
                         <p>
